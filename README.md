@@ -8,3 +8,5 @@ Files that were created by me is listed below:<br>
 Project Homepage:<br>
 https://hyperskill.org/projects/115<br>
 My work:<br>
+https://github.com/sasanhej/Flashcards-Frontend-Hyperskill/blob/Main/Flashcards%20(Frontend)/task/src/index.html
+https://github.com/sasanhej/Flashcards-Frontend-Hyperskill/blob/Main/Flashcards%20(Frontend)/task/src/style.css
